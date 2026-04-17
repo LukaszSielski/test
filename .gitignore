@@ -1,2 +1,30 @@
-/target
-.idea
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA
+*.iml
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build output
+/build/
+
+# Misc
+*.class
+*.swp
+
+# VS Code
+.vscode/
+
+# Ignore Copilot session state
+/.copilot/
+
+# Allow tracking empty directories (keep with .gitkeep)
+!.gitkeep
