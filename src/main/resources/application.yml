@@ -2,7 +2,6 @@ spring:
   application:
     name: verification-task
 
-# Swagger/OpenAPI configuration
 springdoc:
   api-docs:
     enabled: true

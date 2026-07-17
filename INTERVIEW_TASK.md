@@ -31,15 +31,9 @@ Located at: `src/main/java/com/example/hexagonal/domain/model/Order.java`
 - Source code for controller, service, repository stub, and any necessary DTOs.
 - Swagger UI should display all endpoints with clear documentation.
 
-## Bonus
-- Add basic validation to the `Order` input.
-- Use meaningful HTTP status codes and error responses.
-- Create a Dockerfile (with good practices) that can be used to build and run this application.
-
 ## Notes
 - No database setup is required or expected.
 - Focus on code clarity, structure, and adherence to hexagonal architecture principles.
-- You may use Java 21 features.
 
 ---
 Good luck! If you have any questions, please ask your interviewer.
